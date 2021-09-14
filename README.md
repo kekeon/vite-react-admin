@@ -1,12 +1,22 @@
 # Whale DB Tool Web
 
+## [install pnpm](https://pnpm.io/installation)
+
+```
+npm install -g pnpm
+
+or 
+
+npx pnpm add -g pnpm
+```
+
 ## dev
 
 ```cmd
 
-npm run i
+pnpm i
 
-npm run dev
+pnpm dev
 ```
 
 ## eslint guide
